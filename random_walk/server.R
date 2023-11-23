@@ -31,4 +31,5 @@ server <- function(input, output) {
                  x = "Step", y = "Position") +
             theme_minimal()
     })
+
 }
